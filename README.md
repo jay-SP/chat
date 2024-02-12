@@ -2,7 +2,6 @@
 
 This is a realtime chat built with Go, Next, and Typescript.
 
-The tutorial is available [here](https://www.youtube.com/watch?v=W9SuX9c40s8)
 
 ## Hub Architecture
 
